@@ -4,6 +4,10 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/priceline
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/priceline-com
   - type: Website
     url: https://www.priceline-group.com
 description: >-
