@@ -1,4 +1,5 @@
 aid: priceline-group
+name: "The Priceline Group"
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
