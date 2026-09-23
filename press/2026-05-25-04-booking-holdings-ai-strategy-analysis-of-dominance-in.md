@@ -1,7 +1,9 @@
 ---
 title: 'Booking Holdings'' AI Strategy: Analysis of Dominance in ...'
 url: https://www.klover.ai/booking-holdings-ai-strategy-analysis-of-dominance-in-new-era-of-travel/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Priceline Group" press release artificial intelligence'
 position: 4
 source: serpapi-google

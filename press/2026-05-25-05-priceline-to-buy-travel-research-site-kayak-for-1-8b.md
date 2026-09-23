@@ -1,7 +1,9 @@
 ---
 title: Priceline to buy travel research site Kayak for $1.8B
 url: https://www.computerworld.com/article/1538418/priceline-to-buy-travel-research-site-kayak-for-1-8b.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Priceline Group" press release artificial intelligence'
 position: 5
 source: serpapi-google

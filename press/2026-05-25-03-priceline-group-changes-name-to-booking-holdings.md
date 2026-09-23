@@ -1,7 +1,9 @@
 ---
 title: Priceline Group changes name to Booking Holdings
 url: https://www.phocuswire.com/Priceline-Group-now-Bookings-Holdings
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Priceline Group" press release artificial intelligence'
 position: 3
 source: serpapi-google
