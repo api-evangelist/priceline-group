@@ -41,3 +41,10 @@ description: >-
   The Priceline Group was a leading provider of online travel and travel-related services
   through brands including Priceline, Booking.com, KAYAK, Agoda, and Rentalcars.com
   before being renamed Booking Holdings.
+x-lifecycle:
+  state: shuttered
+  reason: domain-does-not-resolve
+  observed: '2026-09-27'
+  detail: >-
+    The company's own domain returned no A or AAAA record when probed. This is an observation about the domain, not a request from the company.
+  indexed: false
